@@ -1,4 +1,4 @@
-Receuil de ce que j'ai trouvé
+Recceuil de ce que j'ai trouvé
 
 https://github.com/1technophile/OpenMQTTGateway
 L'objectif du projet OpenMQTTGateway est de concentrer dans une seule passerelle différentes technologies, diminuant par la façon dont le nombre de passerelles propriétaires est nécessaire, et cachant la singularité des différentes technologies derrière un protocole de communication simple et étendu; MQTT 
