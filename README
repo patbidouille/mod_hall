@@ -1,0 +1,20 @@
+Receuil de ce que j'ai trouvé
+
+https://github.com/1technophile/OpenMQTTGateway
+L'objectif du projet OpenMQTTGateway est de concentrer dans une seule passerelle différentes technologies, diminuant par la façon dont le nombre de passerelles propriétaires est nécessaire, et cachant la singularité des différentes technologies derrière un protocole de communication simple et étendu; MQTT 
+Toutes la doc : https://docs.openmqttgateway.com/
+Gros projet qui est intéressant pour éviter les passerelles multiple.
+
+https://github.com/rkubera/ESP8266-MQTT-to-Serial-Bridge
+    Connect to MQTT Server via WIFI
+    Publish Topics to MQTT Server via Serial
+    Subscribe/Unsubscribe Topics from MQTT Server via Serial
+    Automaticaly reconnect to Wifi if signal lost
+    Automaticaly reconnect to MQTT Server and resubscribe Topics if disconnected
+    Automaticaly get NTP time
+    Easy API
+    CRC32 control
+
+https://icircuit.net/arduino-getting-started-mqtt-using-esp32/2138
+Capable d'envoyer en ligne par MQTT le code reçu par liaison série.
+
